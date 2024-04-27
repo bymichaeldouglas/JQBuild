@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bymichaeldouglas/JQBuild/static/css/main.f855e6bc.css",
+    "main.js": "/bymichaeldouglas/JQBuild/static/js/main.cfd79301.js",
+    "static/js/453.4227f9d1.chunk.js": "/bymichaeldouglas/JQBuild/static/js/453.4227f9d1.chunk.js",
+    "static/media/logo.svg": "/bymichaeldouglas/JQBuild/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bymichaeldouglas/JQBuild/index.html",
+    "main.f855e6bc.css.map": "/bymichaeldouglas/JQBuild/static/css/main.f855e6bc.css.map",
+    "main.cfd79301.js.map": "/bymichaeldouglas/JQBuild/static/js/main.cfd79301.js.map",
+    "453.4227f9d1.chunk.js.map": "/bymichaeldouglas/JQBuild/static/js/453.4227f9d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cfd79301.js"
+  ]
+}
